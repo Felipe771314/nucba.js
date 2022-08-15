@@ -1,0 +1,11 @@
+input:focus~.barra::before{
+    width: 100%;
+}
+
+.warnings{
+    width: 200px;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 20px;
+    color: brown;
+}
